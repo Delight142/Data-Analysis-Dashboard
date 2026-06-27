@@ -31,3 +31,4 @@ This dashboard enables businesses to:
 * Support data-driven sales and marketing decisions through interactive reporting
 
 ## Dashboard
+<img width="982" height="538" alt="Capture1" src="https://github.com/user-attachments/assets/2f3dd9cf-32d0-4f6d-87fe-66f4bc28902e" />
