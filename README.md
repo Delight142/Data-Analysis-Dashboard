@@ -1,3 +1,5 @@
-I'm excited to share few of my first hands-on data analytics projects built with Microsoft Excel. 
+# Coffee Sales Dashboard
 
-These dashboards were created while following tutorials and applying what I learned to build interactive, insight-driven reports.
+## Project Overview
+
+The Coffee Sales Dashboard provides an interactive view of coffee sales performance across different countries, customers, and product categories. It is designed to help users explore sales trends and gain actionable business insights through dynamic visualizations.
